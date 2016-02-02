@@ -17,6 +17,7 @@
   "dependencies": {
     "babel-polyfill": "^6.3.14",
     "fbemitter": "^2.0.1",
+    "flux": "^2.1.1",
     "history": "^1.17.0",
     "react": "^0.14.7",
     "react-addons-update": "^0.14.7",

@@ -12,7 +12,7 @@ let BankActions = {
   depositIntoAccount(amount) {
     AppDispatcher.dispatch({
       type: bankConstants.DEPOSITED_INTO_ACCOUNT,
-      amount amount
+      amount: amount
     });
   },
 
